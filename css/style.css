@@ -1,7 +1,7 @@
 body{
 background: #7c6526 url("../img/305207490.jpg") no-repeat center center fixed;
 background-size: cover;
-background: #7c6526; /* Old browsers */
+/*background: #7c6526; - Old browsers */
 /* background: -moz-linear-gradient(top, #f5f6f6 0%, #dbdce2 21%, #b8bac6 49%, #dddfe3 80%, #f5f6f6 100%); FF3.6-15 */
 /* background: -webkit-linear-gradient(top, #f5f6f6 0%,#dbdce2 21%,#b8bac6 49%,#dddfe3 80%,#f5f6f6 100%); Chrome10-25,Safari5.1-6 */
 /* background: linear-gradient(to bottom, #f5f6f6 0%,#dbdce2 21%,#b8bac6 49%,#dddfe3 80%,#f5f6f6 100%); W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
